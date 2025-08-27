@@ -1,0 +1,56 @@
+sw_volume: 40
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 6
+time: 127.279
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:everything-inabakumori/An image in the making.mp3
+1:everything-inabakumori/Anticyclone.mp3
+2:everything-inabakumori/Billow of Fireworks.mp3
+3:everything-inabakumori/COOLER GIRL.mp3
+4:everything-inabakumori/Copy and Pastime.mp3
+5:everything-inabakumori/Floating Moonlight City.mp3
+6:everything-inabakumori/Loop Spinner.mp3
+7:everything-inabakumori/Lost Umbrella.mp3
+8:everything-inabakumori/NON-USE.mp3
+9:everything-inabakumori/Pascal Beats.mp3
+10:everything-inabakumori/SAKASAMA Girl Feeling.mp3
+11:everything-inabakumori/Tears Radar.mp3
+12:everything-inabakumori/The stars get dark.mp3
+13:everything-inabakumori/Secret Music - 稲葉曇.mp3
+14:everything-inabakumori/Ipace.mp3
+15:everything-inabakumori/Loneliness of Spring.mp3
+16:everything-inabakumori/Lastlive.mp3
+17:everything-inabakumori/Kagaribi (feat. inabakumori).mp3
+18:everything-inabakumori/ロストアンブレラ - STUDY WITH MIKU ver. -.mp3
+19:everything-inabakumori/カゼマチグサ - album ver..mp3
+20:everything-inabakumori/かたむすび.mp3
+21:everything-inabakumori/ハルノ寂寞.mp3
+22:everything-inabakumori/ハローマリーナ.mp3
+23:everything-inabakumori/ひみつの小学生.mp3
+24:everything-inabakumori/ポストシェルター.mp3
+25:everything-inabakumori/ラグトレイン.mp3
+26:everything-inabakumori/レーダー.mp3
+27:everything-inabakumori/レイニーブーツ.mp3
+28:everything-inabakumori/天泣.mp3
+29:everything-inabakumori/カゼマチグサ.mp3
+30:everything-inabakumori/きみに回帰線.mp3
+31:everything-inabakumori/ロールレスウエポン - 稲葉曇×Neru.mp3
+32:everything-inabakumori/KOHAKU.mp3
+33:everything-inabakumori/フロートプレイ.mp3
+34:everything-inabakumori/失敗作少女 - 稲葉曇 Remix.mp3
+35:everything-inabakumori/リレイアウター.mp3
+36:everything-inabakumori/私は雨.mp3
+37:everything-inabakumori/電気予報 (feat. 初音ミク).mp3
+38:everything-inabakumori/とこしずめ.mp3
+39:everything-inabakumori/シンクタンク.mp3
+playlist_end
